@@ -1,0 +1,41 @@
+.title{
+    border-radius: 30px;
+    color: blue;
+    text-align: center;
+    border: 3px solid black;
+    background-color: blueviolet;
+
+}
+.titli{
+    color: chartreuse;
+}
+.rasm{
+    border: 3px solid blueviolet;
+    text-align: center;
+}
+.rocli{
+    border: color(   blue);
+}
+table th, td{
+    border: 1px solid  black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+table{
+    width: 100px;
+}
+.ma{
+    background-color:yellowgreen ;
+    color: blueviolet;
+}
+.mo{
+    background-color: cadetblue;
+    color:black ;
+}
+.il{
+    background-color: yellow;
+    color: green;
+}
+.button{
+    width: 30px;
+}
